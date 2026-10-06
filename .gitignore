@@ -1,0 +1,14 @@
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# build output
+dist/
+sources.txt
+
+# local settings (contains the database password)
+db.properties
+
+# generated test files
+*.pdf
